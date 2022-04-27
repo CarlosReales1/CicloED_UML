@@ -1,3 +1,5 @@
+package ciclo;
+
 /**
  * Almacena la tarea y la califca
  * @author Carlos Reales

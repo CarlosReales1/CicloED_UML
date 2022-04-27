@@ -1,3 +1,5 @@
+package ciclo;
+
 /**
  * Almacenara las competencias necesarias de cada ciclo
  * @author Rea

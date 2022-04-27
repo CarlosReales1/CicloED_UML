@@ -1,3 +1,5 @@
+package ciclo;
+
 /**
  * Clase heredada de Persona que añade a los atributos de esta los propios de 
  * un profesor

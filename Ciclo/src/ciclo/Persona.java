@@ -1,3 +1,5 @@
+package ciclo;
+
 /**
  * Superclase que tendrá los datos basicos de los alumnos y profesores
  * relacionados con los ciclos formativos.

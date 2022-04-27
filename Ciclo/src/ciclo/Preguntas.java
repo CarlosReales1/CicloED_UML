@@ -1,3 +1,5 @@
+package ciclo;
+
 /**
  * Clase que almacenará el enunciado y las posibles respuestas de cada pregunta
  * además de cual de dichas respuesta es la correcta
