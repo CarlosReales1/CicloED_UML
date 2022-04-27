@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ciclo","l":"Alumno"},{"p":"ciclo","l":"Ciclo"},{"p":"ciclo","l":"Competencias"},{"p":"ciclo","l":"Examen"},{"p":"ciclo","l":"main"},{"p":"ciclo","l":"Modulo"},{"p":"ciclo","l":"Persona"},{"p":"ciclo","l":"Preguntas"},{"p":"ciclo","l":"Profesor"},{"p":"ciclo","l":"Tarea"}]
